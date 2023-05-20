@@ -6,7 +6,7 @@ pip install -r lib.txt
 
 ### Problem 1 [Fourier Transform]- *`5pts`*
 
-- [1] Generate a 1 sec digital signal from your microphone pronouncing your name and save it as an uncompressed wav audio “.wav” file. You can use 'Audacity' or any other external software to generate the wav audio file.
+- [1] Generate a 1 sec digital signal from your microphone pronouncing your name and save it as an uncompressed wav audio `Rec.wav` file. You can use 'Audacity' or any other external software to generate the wav audio file.
 - [2] Apply all-the-points FFT and plot its magnitude part. [2 pts for FFT code + 1 pts for the plot]
 - [3] Apply the inverse FFT. Compare it to the original audio by listening to both. [1 pts for inverse
 FFT code + 1 pt for the generation of original audio back correctly]
